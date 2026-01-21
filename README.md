@@ -9,7 +9,7 @@ Revenue drivers
 
 Discount impact on profitability
 
-Regional and segment-wise performance
+Regional and segment-wise performance 
 
 Operational efficiency through shipping modes
 
