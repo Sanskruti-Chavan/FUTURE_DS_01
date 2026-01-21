@@ -1,4 +1,5 @@
 FUTURE_DS_01
+
 📊Power BI Business Sales Dashboard Analysis – Future Interns DS Task
 
 This project presents an end-to-end Business Sales Performance Analytics dashboard built using Power BI. The dashboard provides actionable insights into sales, profit, discounts, orders, regions, segments, shipping modes, and product performance, enabling stakeholders to make data-driven strategic decisions.
